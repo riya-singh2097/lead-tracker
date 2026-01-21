@@ -29,8 +29,21 @@ Built using **HTML, CSS, and JavaScript**.
   <li>Go back to the extensions tab, and toggle the extension to turn it on</li>
   <li>Make sure to go to details & allow it to run in private tabs too</li>
   <li>And all done</li>
-
 </ul>
+
+## 📸 Screenshots
+
+### 🔹 Main Interface
+![Main Interface](screenshots/home.png)
+
+### 🔹 Add Lead Input
+![Add Lead Input](screenshots/dialogue-input.png)
+
+### 🔹 Save Current Tab Feature
+![Save Tab Feature](screenshots/output.png)
+
+
+
 
 
 
