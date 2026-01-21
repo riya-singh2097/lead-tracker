@@ -36,9 +36,11 @@ Built using **HTML, CSS, and JavaScript**.
 ### 🔹 Main Interface
 ![Main Interface](screenshots/home.png)
 
+---
 ### 🔹 Add Lead Input
 ![Add Lead Input](screenshots/dialogue-input.png)
 
+---
 ### 🔹 Save Current Tab Feature
 ![Save Tab Feature](screenshots/output.png)
 
